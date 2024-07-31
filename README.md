@@ -1,6 +1,6 @@
 # $${\color{blue}Deep \space Learning}$$
 
-I choose `Deep Learning` chapter of **ISLP** and **ISLR** books for the `B.Sc. Project in Computer Science` course in university😄.
+I choose `Deep Learning` chapter of **ISLP** and **ISLR** books for the `B.Sc. Project in Computer Science` course in university🤗.
 
 * *ISLP* = Introduction to Statistical Learning in Python    --->     [Download ISLP book](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 
