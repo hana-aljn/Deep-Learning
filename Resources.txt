@@ -1,0 +1,9 @@
+📝Resources:
+
+	📚Direct download of the book file:
+		Python: https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html
+		R: https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html
+
+	🖼Datasets & Pictures:
+		Python: https://www.statlearning.com/resources-python
+		R: https://www.statlearning.com/resources-second-edition
